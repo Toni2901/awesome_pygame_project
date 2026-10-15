@@ -76,8 +76,10 @@ awesome_pygame_project/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/space-rocks.git
-   cd space-rocks
+   git clone https://github.com/Toni2901/awesome_pygame_project.git
+   OR
+   git clone git@github.com:Toni2901/awesome_pygame_project.git
+   cd space_rocks
    ```
 
 2. **Set up a Virtual Environment (Recommended):**
